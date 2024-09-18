@@ -1,0 +1,12 @@
+.headline button {
+  background-color: rgb(25, 65, 58);
+  border-radius: 25px;
+  height: 20px;
+  color: white;
+  width: 20%;
+  margin-top: 5vh;
+  margin-right: 70px;
+  &:hover {
+    transform: $transformButton;
+  }
+}

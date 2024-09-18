@@ -1,0 +1,30 @@
+.headline {
+  display: flex;
+
+  justify-content: space-around;
+  text-align: center;
+  height: 10vh;
+}
+.hero {
+  background: rgb(171, 243, 231);
+  height: 30vh;
+  display: flex;
+  justify-content: space-around;
+  h6 {
+    text-wrap: wrap;
+    margin-block: 30px;
+  }
+  img {
+    margin-right: 60px;
+    height: 80%;
+    margin-block: 30px;
+  }
+}
+
+.griglie {
+  display: flex;
+  justify-content: space-around;
+  img {
+    height: 80%;
+  }
+}

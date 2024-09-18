@@ -1,0 +1,17 @@
+$font-margin: 70px;
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: $font-margin;
+}
+h6 {
+  margin-inline: $font-margin;
+  line-height: 3rem;
+  font-weight: bold;
+  font-size: 30px;
+}
+p {
+  font-size: 16px;
+  color: black;
+}
